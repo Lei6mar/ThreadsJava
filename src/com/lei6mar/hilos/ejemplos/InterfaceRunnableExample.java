@@ -7,5 +7,6 @@ public class InterfaceRunnableExample {
         new Thread(new ViajeTarea("Isla de Pascua")).start();
         new Thread(new ViajeTarea("Washington")).start();
         new Thread(new ViajeTarea("Chipre")).start();
+
     }
 }
