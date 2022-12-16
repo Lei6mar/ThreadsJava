@@ -1,7 +1,5 @@
 package com.lei6mar.hilos.ejemplos;
 
-import com.lei6mar.hilos.ejemplos.runnable.ViajeTarea;
-
 public class InterfaceRunnableJava8Example {
     public static void main(String[] args) throws InterruptedException {
         Thread main = Thread.currentThread();
